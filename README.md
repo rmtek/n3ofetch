@@ -1,6 +1,6 @@
 # n3ofetch
 
-This is a neofetch alternative for Windows.
+This is a neofetch alternative for Windows with a small footprint - size 89 KB
 
 ![n3ofetch](https://github.com/rmtek/n3ofetch/assets/24634504/7c0fe5de-7a04-4f8d-8bda-8022e8ca4e94)
 
