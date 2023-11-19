@@ -1,6 +1,6 @@
 # n3ofetch
 
-This is a neofetch alternative for Windows 10/11.
+This is a neofetch alternative for Windows.
 
 Supported OS: Windows 10 / 11
 
