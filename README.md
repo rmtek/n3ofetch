@@ -15,13 +15,14 @@ This script exclusively utilizes Windows internal tools and commands:
     wmic.exe:        Windows Management Instrumentation Command-line.
 
 
-File Hash:
+# File Hash:
+
     MD5 Hash: 5FEDD560E12A37B4F175E08CBA018A24
     SHA1 Hash: 61CA7BC2CFCE6C67A5A2E48A1A875C3366A96763
     SHA256 Hash: 0EA34E7FCF4E24931ECDB525680C722A370FF86578724FF4FCF13679A92CAD03
 
 
-Support / Donation / PayPal:
+# Support / Donation / PayPal:
     https://www.paypal.com/donate/?hosted_button_id=LD9842L5PKD4W
 
 
