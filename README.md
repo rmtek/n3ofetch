@@ -4,9 +4,9 @@ This is a neofetch alternative for Windows.
 
 Supported OS: Windows 10 / 11
 
-1.) The "n3ofetch" script takes some time to read out all the information, so please be patient.
-2.) To run "n3ofetch" anywhere in the terminal or PowerShell, copy n3ofetch.exe to C:\Windows\system32\
-3.) No additional programs or libraries are required to run n3ofetch. Only Windows internal tools are used.
+    1.) The "n3ofetch" script takes some time to read out all the information, so please be patient.
+    2.) To run "n3ofetch" anywhere in the terminal or PowerShell, copy n3ofetch.exe to C:\Windows\system32\
+    3.) No additional programs or libraries are required to run n3ofetch. Only Windows internal tools are used.
 
 This script exclusively utilizes Windows internal tools and commands:
 
