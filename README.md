@@ -2,6 +2,8 @@
 
 This is a neofetch alternative for Windows.
 
+https://github.com/rmtek/n3ofetch/blob/main/n3ofetch.png
+
 Supported OS: Windows 10 / 11
 
     1.) The "n3ofetch" script takes some time to read out all the information, so please be patient.
