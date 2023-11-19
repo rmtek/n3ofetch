@@ -2,7 +2,7 @@
 
 This is a neofetch alternative for Windows.
 
-![n3ofetch](https://github.com/rmtek/n3ofetch/assets/24634504/2d3ed6ec-2af7-4fd0-9c90-e4d1e7bb510f)
+![n3ofetch](https://github.com/rmtek/n3ofetch/assets/24634504/7c0fe5de-7a04-4f8d-8bda-8022e8ca4e94)
 
 Supported OS: Windows 10 / 11
 
