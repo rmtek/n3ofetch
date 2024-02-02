@@ -2,6 +2,8 @@
 
 This is a neofetch alternative for Windows with a small footprint - size 89 KB
 
+Download:    https://github.com/rmtek/n3ofetch/releases
+
 ![n3ofetch](https://github.com/rmtek/n3ofetch/assets/24634504/7c0fe5de-7a04-4f8d-8bda-8022e8ca4e94)
 
 Supported OS: Windows 10 / 11 and Windows Server 2019 / 2022
